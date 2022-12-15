@@ -1,2 +1,2 @@
 "# ERC721A-Sample" 
-"# HumbleBeeContract-NFTStaking" 
+"# HumbleBeeContract-NFTStaking"
